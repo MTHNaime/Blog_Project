@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Trirong:wght@400;500;600&display=swap');
+
+/* aside  */
+.wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.thumb {
+    flex: 1;
+}
+
+.content {
+    flex: 2;
+    padding: 15px;
+}
+
+.wrapper p,
+a {
+    text-decoration: none;
+    font-size: .7rem;
+    margin: 0;
+    font-style: italic;
+    font-weight: bold;
+    color: black;
+}
